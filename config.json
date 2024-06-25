@@ -1,0 +1,15 @@
+{
+    "directories": [],
+    
+    "link": {
+        "./tmux/tmux.conf": "~/.tmux.conf",
+        "/zsh/.zshrc": "~/.zshrc",
+        "/zsh/.zprofile": "~/.zprofile",
+        "/iterm/.iterm.json": "~/.iterm.json"
+    },
+
+    "copy": {},
+    "install": [],
+		
+    "commands": []
+}
